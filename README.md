@@ -1,2 +1,6 @@
 # Coursera-WebDev-JHU
-This Repo contains assignment solution for course HTML CSS JAVASCRIPT for Web Developers by John Hopkins University
+### HTML CSS JAVASCRIPT for Web Developers
+### by John Hopkins University
+### Coursera
+
+This Repo contains my assignment solution for Module 2 
