@@ -11,6 +11,9 @@ h1 {
 body {
 	background-image: url("chivel.jpg");
 	background-color: #FEF5CA;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 
 }
 
