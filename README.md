@@ -3,4 +3,4 @@
 ### by John Hopkins University
 ### Coursera
 
-This Repo contains my assignment solution for Module 2 
+This Repo contains my assignment solution for the course
