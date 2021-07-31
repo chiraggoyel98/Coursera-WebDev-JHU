@@ -10,13 +10,13 @@ h1 {
 }
 
 body {
-	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	
+	background-color: #fa9379;
 
 }
 
 p {
-	padding: 10px;
+	padding: 13px;
 	margin: 0;
 }
 
@@ -30,12 +30,12 @@ p {
 }
 
 section {
-	border:	1px solid black;
-	background-color: #00FF99;
+	border:	1px solid rgb(0, 0, 0);
+	background-color: #f7bcf4;
 	width: 100%;
 	height: auto;
 	font-family: Helvetica;
-	color: black;
+	color: rgb(2, 2, 161);
 	position: relative;
 	overflow: auto;
 }
@@ -51,7 +51,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color: #ecbc1e;
 }
 
 #beef {
@@ -65,7 +65,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF1439;
+	background-color: #ff149dc9;
 }
 
 #sushi {
@@ -106,7 +106,7 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: #FC5F06;
+  background-color: #ff3355;
   color: #FFFFFF;
 }
 
@@ -119,7 +119,7 @@ section {
 }
 
 .nav-header {
-  background-color: #FFFFFF;
+  background-color: #bd6969fa;
 }
 
 .nav-brand {
