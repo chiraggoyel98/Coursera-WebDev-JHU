@@ -11,7 +11,7 @@ h1 {
 
 body {
 	
-	background-color: #fa9379;
+	background-color: #af7878;
 
 }
 
@@ -31,11 +31,11 @@ p {
 
 section {
 	border:	1px solid rgb(0, 0, 0);
-	background-color: #f7bcf4;
+	background-color: #e6d990;
 	width: 100%;
 	height: auto;
 	font-family: Helvetica;
-	color: rgb(2, 2, 161);
+	color: rgb(0, 0, 0);
 	position: relative;
 	overflow: auto;
 }
@@ -44,42 +44,42 @@ section {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
-	margin-left: 70%;
+	margin-left: 71%;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	padding: 5px;
-	background-color: #ecbc1e;
+	padding: 10px;
+	background-color: #f0ae4b;
 }
 
 #beef {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
-	margin-left: 70%;
+	margin-left: 71%;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #ff149dc9;
+	background-color: #f851b3c9;
 }
 
 #sushi {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
-	margin-left: 70%;
+	margin-left: 71%;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #6495ED;
-	color: white;
+	background-color: #5fe97d;
+	color: rgb(0, 0, 0);
 	padding: 5px;
 }
 
@@ -101,17 +101,17 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: #FFFFFF;
+  color: #803333;
 }
 
 #header-nav {
   border: 0;
-  background-color: #ff3355;
-  color: #FFFFFF;
+  background-color: #e7e0b5;
+  color: #311919;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 1px solid #631a35;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
@@ -119,23 +119,23 @@ section {
 }
 
 .nav-header {
-  background-color: #bd6969fa;
+  background-color: #e21515fa;
 }
 
 .nav-brand {
-  color: #FFFFFF;
+  color: #462d2d;
   font-size: 1.5em;
 }
 
 #nav-list {
-  color: white;
+  color: rgb(78, 47, 47);
 }
 
 hr {
-  border-color: white;
+  border-color: rgb(32, 19, 19);
 }
 
 .item {
-  color: white;
+  color: rgb(32, 20, 20);
   font-size: 1.2em;
 }
